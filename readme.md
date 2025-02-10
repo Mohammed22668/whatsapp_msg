@@ -2,6 +2,13 @@
 
 ## Setup Virtual Environment
 
+### Move into project dir
+
+```sh
+cd whatsapp_msg
+```
+
+
 ### Windows:
 
 ```sh
@@ -31,7 +38,7 @@ source env/bin/activate
 ## Install Requirements
 
 ```sh
-pip install -r requirements.txt
+pip install -r requierment.txt
 ```
 
 ## Run Python File
