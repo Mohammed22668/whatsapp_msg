@@ -40,4 +40,13 @@ pip install -r requirements.txt
 python main.py
 ```
 
+### Steps
+
+    - Choose the xlsx file and Click Send Messages
+    - The code will open the Browser (Chrome Driver)
+    - Please scan the QR code to log in to WhatsApp Web.
+    - After login into WhatsApp Click OK when you are logged in.
+
+### xlsx File example
+
 ![Example xlsx](image.png)
