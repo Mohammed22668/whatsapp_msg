@@ -2,10 +2,41 @@
 
 ## Setup Virtual Environment
 
-### Move into project dir
 
+## Clone The project files
+```sh
+git clone https://github.com/Mohammed22668/whatsapp_msg
+```
+
+
+### Move into project dir
 ```sh
 cd whatsapp_msg
+```
+
+
+
+## Install Google Chrome
+```sh
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+```
+```sh
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+```
+
+
+## Install ChromeDriver
+```sh
+wget https://storage.googleapis.com/chrome-for-testing-public/135.0.6999.2/linux64/chromedriver-linux64.zip
+```
+```sh
+cd /chromedriver-linux64
+```
+```sh
+sudo cp chromedriver /usr/local/bin/
+```
+```sh
+sudo chmod +x /usr/local/bin/chromedriver
 ```
 
 

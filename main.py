@@ -74,7 +74,7 @@ def browse_file():
 # Create the main GUI window
 root = tk.Tk()
 root.title("WhatsApp Message Sender")
-root.geometry("500x200")
+root.geometry("600x200")
 root.resizable(False, False)
 
 # Define style for a professional look
