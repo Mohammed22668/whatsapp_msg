@@ -30,6 +30,9 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 wget https://storage.googleapis.com/chrome-for-testing-public/135.0.6999.2/linux64/chromedriver-linux64.zip
 ```
 ```sh
+unzip chromedriver-linux64.zip
+```
+```sh
 cd /chromedriver-linux64
 ```
 ```sh
